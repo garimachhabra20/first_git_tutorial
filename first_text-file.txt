@@ -1,1 +1,3 @@
-This is my first text file in the git-commmand-learn repo
+This is my first text file in the git-commmand-learn repo.
+
+This is the last line in this file !!
