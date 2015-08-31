@@ -1,3 +1,2 @@
 This is my third file . this is to test reset operations // soft , mixed , hard.
 I'm playing with branches!!!
-I'm in new_branch now!!
