@@ -1,2 +1,3 @@
 This is my third file . this is to test reset operations // soft , mixed , hard.
 I'm playing with branches!!!
+I want to change it for the purpose of push and merge
